@@ -1,4 +1,4 @@
-# CyberGuard AI - Production Requirements
+# CyberGuard AI 2.0 - Production Requirements
 # Python Environment: Python >= 3.9, < 3.12
 
 # Data Processing & Numerical Computation
@@ -6,9 +6,8 @@ numpy>=1.24.0,<2.0.0
 pandas>=2.0.0,<3.0.0
 faker>=20.0.0
 
-# Machine Learning & Deep Learning
+# Machine Learning & Threat Detection
 scikit-learn>=1.3.0
-tensorflow>=2.14.0
 joblib>=1.3.0
 
 # Model Explainability & Interpretability
