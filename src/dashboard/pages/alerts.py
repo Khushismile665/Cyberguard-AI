@@ -45,7 +45,7 @@ def render_alerts_page(df: pd.DataFrame):
 
     display_cols = [c for c in ["Timestamp", "User ID", "Source IP", "Country", "attack_type", "risk_score", "risk_level", "natural_language_explanation", "triage_status"] if c in alerts_df.columns]
     
-    st.dataframe(style_soc_dataframe(alerts_df[display_cols]), width="stretch")
+    st.dataframe(style_soc_dataframe(alerts_df[display_cols].head(200)), width="stretch")
 
     # 4. Interactive Incident Detail Drawer
     st.markdown("---")
