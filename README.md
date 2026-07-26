@@ -8,6 +8,9 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b.svg)](https://streamlit.io/)
 [![Build Status](https://img.shields.io/badge/tests-53%2F53%20passed-success.svg)](#-unit-testing--verification)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen.svg?logo=streamlit)](https://cyberguard-ai-gwvp3mvphqfhmf2tebzhzn.streamlit.app/)
+
+> 🚀 **Live Production Dashboard**: [https://cyberguard-ai-gwvp3mvphqfhmf2tebzhzn.streamlit.app/](https://cyberguard-ai-gwvp3mvphqfhmf2tebzhzn.streamlit.app/)
 
 > **CyberGuard AI 2.0** is an end-to-end, enterprise-grade AI security platform for real-time authentication log anomaly detection, multi-class cyber attack classification, explainable risk scoring, SHAP attribution modeling, and an interactive Security Operations Center (SOC) web dashboard powered by a fact-grounded AI Security Copilot.
 
